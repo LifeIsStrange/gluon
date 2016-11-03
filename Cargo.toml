@@ -7,7 +7,7 @@ build = "build.rs"
 
 license = "MIT"
 
-description = "A static, type inferred programming langauge for application embedding"
+description = "A static, type inferred programming language for application embedding"
 
 repository = "https://github.com/gluon-lang/gluon"
 documentation = "https://gluon-lang.github.io/gluon/gluon/index.html"
